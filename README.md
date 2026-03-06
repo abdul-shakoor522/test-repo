@@ -1,1 +1,3 @@
-How AI agent works?
+How does an AI agent work?
+
+What does MCP mean?
